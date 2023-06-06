@@ -1,6 +1,6 @@
 #check the Given string is Alphabet or not
 #using Conditional operator
-#ASCII 65-90 = Upper case(A-Z)
+#ASCII 65-90 = Upper case(A-Z) 
 #ASCII 97-122= lower case (a-z)
 
 char=input('Enter the character : ')
