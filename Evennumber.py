@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 28 04:05:57 2019
-
-@author: Dell
-"""
 #find the even number
+
 '''"Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit 
 of the number is an even numberThe numbers obtaine should be printed in a comma-separated sequence 
 on a single line."'''
