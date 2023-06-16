@@ -1,4 +1,5 @@
 #Write a program to count total zeros and ones in a binary number.
+
 x=int(input('enter the number :'))
 y=(bin(x))
 print(y)
