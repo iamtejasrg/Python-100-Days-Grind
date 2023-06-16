@@ -1,5 +1,3 @@
-#To find the HCF of the Two numbers
-
 def HCF(a,b):
     """computing the HCF of two numbers"""
     smaller=b if a>b else a
