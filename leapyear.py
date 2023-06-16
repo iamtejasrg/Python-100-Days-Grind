@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 09:35:18 2020
-
-@author: Dell
-"""
-
 #leap year 
 #These are the conditions for the leap year
 #The year is evenly divisible by 4;
