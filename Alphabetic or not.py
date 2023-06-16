@@ -2,7 +2,8 @@
 #using Conditional operator
 #ASCII 65-90 = Upper case(A-Z) 
 #ASCII 97-122= lower case (a-z)
-
+ 
+    
 char=input('Enter the character : ')
 if ord(char)>=65 and ord(char)<=90 or ord(char)>=97 and ord(char)<=122:
     print(char,"is Alphabetic")
