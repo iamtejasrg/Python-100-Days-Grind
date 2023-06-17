@@ -1,6 +1,6 @@
 #******** ord () is used to convert alphabetic to ASCII values it takes character and gives numerical value
 ord('A')  #65 to 90 Uppercase,97 to 122 lower case
-
+ 
 chr(90) #it takes numerical & gives the character
 
 #Doc string
