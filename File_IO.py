@@ -139,7 +139,7 @@ f.read(4)
 # In[ ]:
 
 
-#f = open("test.txt","r")
+#f = open("test.txt","r") 
 f.read(10)
 
 
