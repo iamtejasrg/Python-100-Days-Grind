@@ -3,6 +3,7 @@
 #Example : 2 - 0000 0010, 8 - 0000 1000 and 5 - 0000 0101
 
 num=int(input("Enter a number:"))
+
 #print("Binary representation of num is:",bin(num))
 if((num&1)==0):
     print("{} is Even Number".format(num))
