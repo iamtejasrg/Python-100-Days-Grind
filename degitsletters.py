@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 11 12:40:42 2020
-
-@author: Dell
-"""
 #calulate the number of letters and degits''
 
 list=input("enter string:")
